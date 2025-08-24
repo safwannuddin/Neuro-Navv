@@ -130,5 +130,5 @@ wheels/
 *.egg
 
 # ⛔ Ignore backend folder
-/backend
+
 .vercel
